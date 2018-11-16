@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Ryuujiw/hackathon#readme",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
     "twitter": "^1.7.1"
   }
 }

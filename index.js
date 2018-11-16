@@ -4,7 +4,9 @@ const config = require('./configurations/server');
 // APIs
 const fashion = require('./apis/fashion');
 
-const twitter = require('twitter')
+// Scraper
+const scraper = require('cheerio');
+
 
 
 // Getter from Front-end
