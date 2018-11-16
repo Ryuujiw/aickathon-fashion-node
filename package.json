@@ -18,6 +18,8 @@
   "homepage": "https://github.com/Ryuujiw/hackathon#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
+    "dotenv": "^6.1.0",
+    "request": "^2.88.0",
     "twitter": "^1.7.1"
   }
 }
