@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ryuujiw/hackathon/issues"
   },
-  "homepage": "https://github.com/Ryuujiw/hackathon#readme"
+  "homepage": "https://github.com/Ryuujiw/hackathon#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
 }
