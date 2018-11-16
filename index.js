@@ -12,16 +12,16 @@ const in_url = 'https://www.reddit.com/r/javascript/';
 
 let result = [];
 
-request(in_url, (err, res, body) => {
-  //Load HTML body into cheerio
-  const $ = cheerio.load(body);
-  $('.score').attr('title', (i, val) => {
-    result.push(val);
-    console.log(result)
-  });
-});
+// request(in_url, (err, res, body) => {
+//   //Load HTML body into cheerio
+//   const $ = cheerio.load(body);
+//   $('.score').attr('title', (i, val) => {
+//     result.push(val);
+//     console.log(result)
+//   });
+// });
 
-// Getter from Front-end
+// // Getter from Front-end
 
-var hashtag = '';
-var output = '';
+// var hashtag = '';
+// var output = '';
