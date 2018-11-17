@@ -36,7 +36,7 @@ for (i = 0; i < PAGE_MAX; i++) {
 
 console.log('end');
 
-// Getter from Front-end
+// // Getter from Front-end
 
-var hashtag = '';
-var output = '';
+// var hashtag = '';
+// var output = '';
